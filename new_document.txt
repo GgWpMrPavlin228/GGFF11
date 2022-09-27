@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 Jupiter's magnetic field is so powerful that it enriches the magnetic field of our planet with billions of watts every day.
+=======
+- You won't believe it! - when Arkady entered the office, the first thing Stepan, nicknamed Processor, rushed to meet him. The nickname stuck to him for a long time, for more than 10 years.
+
+- Another new virus? Arkady grinned. New viruses appear every day, in fact, they are engaged in them in the Vygotsky Antivirus Laboratory. Stepan was probably the most fanatical fan of viruses among the whole team. He often admired them. Arkady, on the other hand, treated it more calmly, more like a job. They found viruses and sent them dozens every day. And something really new was not enough.
+
+- - This time it's not just new, it's simple... just radically new... This is a new era in viral writing! - The processor was clearly agitated.
+
+- What can be fundamentally new there?
+
+- You know, I still can't even collect the whole signature yet!
+
+- How can this be? Arkady was a little surprised.
+>>>>>>> new_era
